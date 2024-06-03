@@ -1,0 +1,104 @@
+{
+  "product": "Indonesia Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Indonesia",
+      "product": "Indonesia Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the start of the new year"
+    },
+    {
+      "title": "Chinese New Year",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-25T12:00:00",
+      "endDate": "2024-01-25T12:00:00",
+      "source": "Government of Indonesia",
+      "product": "Indonesia Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of the Chinese Lunar New Year"
+    },
+    {
+      "title": "Nyepi (Balinese Day of Silence)",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-03-25T12:00:00",
+      "endDate": "2024-03-25T12:00:00",
+      "source": "Government of Indonesia",
+      "product": "Indonesia Public Holidays 2024",
+      "style": "teal",
+      "description": "Day of silence, fasting, and meditation for the Balinese Hindus"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Indonesia",
+      "product": "Indonesia Public Holidays 2024",
+      "style": "green",
+      "description": "Celebration of workers and labor movements"
+    },
+    {
+      "title": "Idul Fitri (Eid al-Fitr)",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-24T12:00:00",
+      "endDate": "2024-05-25T12:00:00",
+      "source": "Government of Indonesia",
+      "product": "Indonesia Public Holidays 2024",
+      "style": "yellow",
+      "description": "End of Ramadan fasting month for Muslims"
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-08-17T12:00:00",
+      "endDate": "2024-08-17T12:00:00",
+      "source": "Government of Indonesia",
+      "product": "Indonesia Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of Indonesia's independence from the Netherlands"
+    },
+    {
+      "title": "Idul Adha (Eid al-Adha)",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-09-02T12:00:00",
+      "endDate": "2024-09-03T12:00:00",
+      "source": "Government of Indonesia",
+      "product": "Indonesia Public Holidays 2024",
+      "style": "purple",
+      "description": "Festival of sacrifice for Muslims"
+    },
+    {
+      "title": "Islamic New Year",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-08-31T12:00:00",
+      "endDate": "2024-08-31T12:00:00",
+      "source": "Government of Indonesia",
+      "product": "Indonesia Public Holidays 2024",
+      "style": "deepPurple",
+      "description": "Islamic New Year celebration"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Indonesia",
+      "product": "Indonesia Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
